@@ -10,4 +10,8 @@ The scripts are custom-made scripts for the analysis of these specific data. The
   - The I2MC library from Hessels et al., 2016 has been included. Please cite the library acordingly if used.
   
 The data includes:
-  - The fixation files extracted from the I2MC algorithm.
+  - The fixation files extracted from the I2MC algorithm are located in the folder Fixation. There are 10 type of slides (5 chair slides and 5 face slides).
+  
+ NOTE: The scripts were customed made for this particular ET data and the code may not be very flexible. If you encounter any trouble, don't doubt in contact me at d.lopez@psych.pan.pl 
+ 
+ 
