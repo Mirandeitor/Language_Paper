@@ -1,0 +1,37 @@
+Main Programs
+-------------
+
+TestRqa
+    Simple version of RQA test
+
+RunRqaGrid
+    Run Rqa using grid method
+
+RunRqaDirect
+    Run Rqa using distance method
+
+TestCra
+    Simple version of CRA test
+
+RunScanpathCra
+    Run Cra on fixation sequences
+
+Support Functions
+-----------------
+
+Rqa
+Cra
+PlotFixations…
+PlotRecurrenceMatrix
+
+Subdirectories
+--------------
+
+images
+    all images used
+
+data
+    fixation data etc
+
+results
+    result files

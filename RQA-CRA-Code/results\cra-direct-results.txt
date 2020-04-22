@@ -1,0 +1,1 @@
+trial	image	rec	det	lam	tt	corm	ent	relent
