@@ -11,4 +11,3 @@ The scripts are custom-made scripts for the analysis of these specific data. The
   
 The data includes:
   - The fixation files extracted from the I2MC algorithm.
-  - The final SPSS table with RQA averages and language scores.
